@@ -1,4 +1,4 @@
-# Open Source Tsukuba Challengeとは?
+# Tsukuba Challenge Open Source Groupとは?
 
 つくばチャレンジの[情報公開の理念](http://www.tsukubachallenge.jp/tc2015/disclosure)に従い、大会内で蓄積された技術の更なる共有と世界に対する情報配信を目的とした有志のメンバで構成されるグループ。 大会参加者であれば原則として参加は自由であり、あらゆる貢献は歓迎されます。
 
